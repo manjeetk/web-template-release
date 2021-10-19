@@ -1,4 +1,4 @@
-/*! SWE 4.0.10 202191T1316 */
+/*! SWE 4.0.10 202192T1215 */
 /*!
  * Stickyfill -- `position: sticky` polyfill
  * v. 1.1.1 | https://github.com/wilddeer/stickyfill
